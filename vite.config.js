@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/mo-portfolio-v2/', 
+  base: '/mo-portfolio-v3/', 
   build: {
     rollupOptions: {
       output: {
